@@ -83,3 +83,10 @@ Gmail : dipalikamboj0@gmail.com
 Insta: kambojdipali_05
 LinkedIn:https://www.linkedin.com/in/dipali-kamboj
 
+Name:Deepak rana
+About ME I am a competative programmer and frontend web developer
+Instagram Id: _deepak_rana.08
+linkedin Id: http://www.linkdin.com/in/deepak-rana-79689821b
+Gmail Id:mailtodeepakrana13@gmail.com
+
+
